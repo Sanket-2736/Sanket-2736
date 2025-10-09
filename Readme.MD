@@ -30,7 +30,7 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
 `Node.js` `Express` `Spring Boot` `Django`
 
 **Databases:**  
-`MySQL` `SQLite` `MongoDB`
+`MySQL` `ProgreSQL` `MongoDB`
 
 ---
 
@@ -43,7 +43,7 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
   <a href="mailto:sanketbelekar2736@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-📄 [**Resume**](#) _(Add your Google Drive or portfolio link here)_
+📄 [**Resume**](#) _https://drive.google.com/file/d/1AALu2yEA-e2RCJklmE7gZNfRz-giJZIe/view?usp=sharing_
 
 ---
 
