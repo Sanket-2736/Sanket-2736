@@ -56,14 +56,6 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
 
 ---
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=skbelekar2736&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
 ## 🌟 Highlights
 
 - 🏆 **GSSOC’25 Contributor**  
