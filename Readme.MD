@@ -38,9 +38,9 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanket-belekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sanket_belekar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/sanket_belekar" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:sanketbelekar2736@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/sanketbelekar29" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sanket2736/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:sanketbelekar27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 📄 [**Resume**](#) _https://drive.google.com/file/d/1AALu2yEA-e2RCJklmE7gZNfRz-giJZIe/view?usp=sharing_
