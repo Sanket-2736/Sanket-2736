@@ -5,12 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GSSOC'25+Contributor;Building+Scalable+Solutions;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
-```ascii
+
 ╔═══════════════════════════════════════════════════════════════╗
 ║  B.Tech CS @ KKWIEER, Nashik • Batch of 2027                 ║
 ║  Software Engineer | Problem Solver | System Designer         ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+
 
 <div align="center">
   
