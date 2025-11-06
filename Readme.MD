@@ -7,6 +7,7 @@
 </div>
 
 ╔═══════════════════════════════════════════════════════════════╗
+
 ║  B.Tech CS @ KKWIEER, Nashik • Batch of 2027                 ║
 ║  Software Engineer | Problem Solver | System Designer         ║
 ╚═══════════════════════════════════════════════════════════════╝
