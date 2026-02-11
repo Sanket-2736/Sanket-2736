@@ -233,7 +233,7 @@ Other         1 hr 55 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🎓 Master **System Design** & **Microservices**
 - [ ] ☁️ Complete **AWS Solutions Architect** certification
