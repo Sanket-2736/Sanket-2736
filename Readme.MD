@@ -33,7 +33,7 @@ const sanket = {
     currentFocus: ["Full-Stack Development", "System Design", "Cloud Architecture"],
     learning: ["DevOps", "Microservices", "Docker & Kubernetes"],
     communities: ["GSSOC'25", "Open Source Contributor"],
-    goals2025: "Build production-grade applications & contribute to 50+ open-source projects",
+    goals_2026: "Build production-grade applications & contribute to 50+ open-source projects",
     funFact: "I debug code faster than I debug my life 🐛"
 };
 ```
